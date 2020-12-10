@@ -13,10 +13,10 @@ The system will get the array of user answers, transform it into array of object
 
 - [inatallation](#Installation)
 - [dependencies](#Dependences)
-- [tools used](#Tools used)
+- [tools](#Tools)
 - [chalenges](#Chalenges)
 - [contributors](#Contributors)
-- [video guits](#Video guits)
+- [video](#Video)
 - [links](#Links)
   
 
