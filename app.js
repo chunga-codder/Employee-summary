@@ -1,6 +1,6 @@
-const Manager = require("./lib/Manager");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
+const Manager = require("./lib/manager");
+const Engineer = require("./lib/Employee");
+const Intern = require("./lib/intern");
 const inquire = require("inquirer");
 const fs = require("fs");
 
@@ -130,7 +130,7 @@ function buildTeamList() {
 }
 
 function buildHtmlPage() {
-    let newFile = fs.readFileSync("./templates/main.html")
+    let newFile = fs.readFileSync("./template/main.html")
     fs.writeFileSync("./output/teamPage.html", newFile, function (err) {
         if (err) throw err;
     })
@@ -154,7 +154,7 @@ function buildHtmlPage() {
 }
 
 function buildHtmlCard(memberType, name, id, email, propertyValue) {
-    let data = fs.readFileSync(`./templates/${memberType}.html`, 'utf8')
+    let data = fs.readFileSync(`./template/${memberType}.html`, 'utf8')
     data = data.replace("nameHere", name);
     data = data.replace("idHere", `ID: ${id}`);
     data = data.replace("emailHere", `Email: <a href="mailto:${email}">${email}</a>`);
