@@ -57,3 +57,4 @@ The problem with this approach is that replacing content inside an HTML page via
 #### you can wash the test made using gest here  :  https://drive.google.com/file/d/19zY_fwWFPQFHbN2NYzF1bPYA1fRaABlq/view
 
 #### video link for my application usage : https://drive.google.com/file/d/1ynOVtyKeUzDIyy47qyy86t_N26fPIhGf/view
+#### video guit for deploid liveserver app : https://drive.google.com/file/d/1qQOlLGsF68kfOemfo4HnKxCbZ61c4Z6O/view
