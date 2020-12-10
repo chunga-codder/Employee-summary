@@ -1,0 +1,18 @@
+{
+  "name": "template-engine-employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emplyee.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "chunga",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
