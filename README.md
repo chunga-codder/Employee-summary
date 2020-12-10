@@ -58,3 +58,9 @@ The problem with this approach is that replacing content inside an HTML page via
 
 #### video link for my application usage : https://drive.google.com/file/d/1ynOVtyKeUzDIyy47qyy86t_N26fPIhGf/view
 #### video guit for deploid liveserver app : https://drive.google.com/file/d/1qQOlLGsF68kfOemfo4HnKxCbZ61c4Z6O/view
+
+## Images : 
+
+![IMG_20201210_230830_5~2](https://user-images.githubusercontent.com/71171928/101836654-14ecb380-3b3e-11eb-84e4-a4553d3d216e.jpg)
+![Uploading IMG_20201210_230831_4~2.jpg…]()
+![Uploading IMG_20201210_230814_0.jpg…]()
